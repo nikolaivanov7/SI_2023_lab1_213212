@@ -1,0 +1,33 @@
+Author: Nikola <nikola.ivanov.1@students.finki.ukim.mk>
+Date:   Tue Mar 14 23:24:05 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit e940aa2bd0bcba974767c74e3a6b0fec7f85facd
+Merge: 99d5efb 1b74418
+Author: Nikola <nikola.ivanov.1@students.finki.ukim.mk>
+Date:   Tue Mar 14 23:28:03 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 1b744184cc38441985348cf053eebb314e475d7c (origin/bug2, bug2)
+Author: Nikola <nikola.ivanov.1@students.finki.ukim.mk>
+Date:   Tue Mar 14 23:22:53 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 99d5efbfd822f319f920d7608970a93f30778ec3 (origin/bug1, bug1)
+Author: Nikola <nikola.ivanov.1@students.finki.ukim.mk>
+Date:   Tue Mar 14 23:22:19 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 3b11e206f873bc05c7a75e2f18ba2ee2d44db213
+Author: Nikola <nikola.ivanov.1@students.finki.ukim.mk>
+Date:   Tue Mar 14 23:21:00 2023 +0100
+
+    Add java class
+
+commit da5a279067e847174dc1ec1b8e6335c42ef69214
+:
+
